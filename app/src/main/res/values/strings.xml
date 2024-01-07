@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz">Quiz</string>
+    <string name="home">HOME</string>
+    <string name="hello_anshu_singh">Hello,Anshu Singh</string>
+    <string name="my_home">My Home</string>
+    <string name="quiz_solve">Quiz Solve</string>
+    <string name="rule">Rule</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="logout">Logout</string>
+    <string name="change_password">Change Password</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_an_account">Don\'t an account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="ques2">ques2</string>
+    <string name="ques3">ques3</string>
+    <string name="ques4">ques4</string>
+    <string name="ques5">ques5</string>
+    <string name="ques6">ques6</string>
+    <string name="ques1">ques1</string>
+</resources>
